@@ -8,7 +8,7 @@ A beginner-friendly portfolio documenting my Python learning journey through top
 
 | Day | Topic / Deliverable | File | Status |
 |---:|---|---|---|
-| 01 | Type Casting | `topics/01_type_casting.py` | [x] Completed |
+| 01 | Type Casting | `topics/01_type_casting.py` | ✔ Completed |
 | 02 | User Input | `topics/02_user_input.py` | ⬜ Planned |
 | 03 | Operators | `topics/03_operators.py` | ⬜ Planned |
 | 04 | Conditional Statements | `topics/04_conditional_statements.py` | ⬜ Planned |

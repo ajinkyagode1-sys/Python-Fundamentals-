@@ -31,6 +31,7 @@ num2 = float(input("Enter the second number: "))
 total = num1 + num2
 print("Sum:", total)
 
+#---------------------------------------------------------------------------------------------------------------------------------
 
 # input() returns a string; convert it before numeric calculations.
 

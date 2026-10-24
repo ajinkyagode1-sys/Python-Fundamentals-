@@ -2,7 +2,6 @@
 # Day 3: Python Operators
 # Operators perform operations on variables and values.
 
-
 # 1. Arithmetic Operators
 a = 10
 b = 3

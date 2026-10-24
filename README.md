@@ -10,7 +10,7 @@ A beginner-friendly portfolio documenting my Python learning journey through top
 |---:|---|---|---|
 | 01 | Type Casting | `topics/01_type_casting.py` | ✔Completed |
 | 02 | User Input | `topics/02_user_input.py` | ✔Completed |
-| 03 | Operators | `topics/03_operators.py` | ⬜ Planned |
+| 03 | Operators | `topics/03_operators.py` | ✔Completed |
 | 04 | Conditional Statements | `topics/04_conditional_statements.py` | ⬜ Planned |
 | 05 | Functions | `topics/05_functions.py` | ⬜ Planned |
 | 06 | Function Arguments | `topics/06_function_arguments.py` | ⬜ Planned |

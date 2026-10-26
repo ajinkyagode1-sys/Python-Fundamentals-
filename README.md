@@ -12,7 +12,7 @@ A beginner-friendly portfolio documenting my Python learning journey through top
 | 02 | User Input | `topics/02_user_input.py` | ✔Completed |
 | 03 | Operators | `topics/03_operators.py` | ✔Completed |
 | 04 | Conditional Statements | `topics/04_conditional_statements.py` | ✔Completed |
-| 05 | Functions | `topics/05_functions.py` | ⬜ Planned |
+| 05 | Functions | `topics/05_functions.py` | ✔Completed |
 | 06 | Function Arguments | `topics/06_function_arguments.py` | ⬜ Planned |
 | 07 | Strings | `topics/07_strings.py` | ⬜ Planned |
 | 08 | Loops | `topics/08_loops.py` | ⬜ Planned |

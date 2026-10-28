@@ -14,7 +14,7 @@ A beginner-friendly portfolio documenting my Python learning journey through top
 | 04 | Conditional Statements | `topics/04_conditional_statements.py` | ✔Completed |
 | 05 | Functions | `topics/05_functions.py` | ✔Completed |
 | 06 | Function Arguments | `topics/06_function_arguments.py` | ✔Completed |
-| 07 | Strings | `topics/07_strings.py` | ⬜ Planned |
+| 07 | Strings | `topics/07_strings.py` | ✔Completed |
 | 08 | Loops | `topics/08_loops.py` | ⬜ Planned |
 | 09 | Nested Loops | `topics/09_nested_loops.py` | ⬜ Planned |
 | 10 | Lists | `topics/10_lists.py` | ⬜ Planned |

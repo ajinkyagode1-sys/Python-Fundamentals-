@@ -15,7 +15,7 @@ A beginner-friendly portfolio documenting my Python learning journey through top
 | 05 | Functions | `topics/05_functions.py` | ✔Completed |
 | 06 | Function Arguments | `topics/06_function_arguments.py` | ✔Completed |
 | 07 | Strings | `topics/07_strings.py` | ✔Completed |
-| 08 | Loops | `topics/08_loops.py` | ⬜ Planned |
+| 08 | Loops | `topics/08_loops.py` | ✔Completed |
 | 09 | Nested Loops | `topics/09_nested_loops.py` | ⬜ Planned |
 | 10 | Lists | `topics/10_lists.py` | ⬜ Planned |
 | 11 | Tuples | `topics/11_tuples.py` | ⬜ Planned |

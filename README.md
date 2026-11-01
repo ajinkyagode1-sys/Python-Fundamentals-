@@ -18,7 +18,7 @@ A beginner-friendly portfolio documenting my Python learning journey through top
 | 08 | Loops | `topics/08_loops.py` | ✔Completed |
 | 09 | Nested Loops | `topics/09_nested_loops.py` | ✔Completed |
 | 10 | Lists | `topics/10_lists.py` | ✔Completed |
-| 11 | Tuples | `topics/11_tuples.py` | ⬜ Planned |
+| 11 | Tuples | `topics/11_tuples.py` | ✔Completed |
 | 12 | Sets | `topics/12_sets.py` | ⬜ Planned |
 | 13 | Dictionaries | `topics/13_dictionaries.py` | ⬜ Planned |
 | 14 | Object-Oriented Programming | `topics/14_oop.py` | ⬜ Planned |

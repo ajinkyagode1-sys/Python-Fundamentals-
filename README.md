@@ -23,7 +23,7 @@ A beginner-friendly portfolio documenting my Python learning journey through top
 | 13 | Dictionaries | `topics/13_dictionaries.py` | ✔Completed |
 | 14 | Object-Oriented Programming | `topics/14_oop.py` | ✔Completed |
 | 15 | Modules, Packages, Libraries & pip | `topics/15_modules_packages_libraries.py` | ✔Completed |
-| 16 | File Handling | `topics/16_file_handling.py` | ⬜ Planned |
+| 16 | File Handling | `topics/16_file_handling.py` | ✔Completed |
 | 17 | Assignment 1 — Printing & Variables | `assignments/assignment_01_printing_variables.py` | ⬜ Planned |
 | 18 | Assignment 2 — Input & Dictionary | `assignments/assignment_02_input_and_dictionary.py` | ⬜ Planned |
 | 19 | Assignment 3 — Conditionals | `assignments/assignment_03_conditionals.py` | ⬜ Planned |

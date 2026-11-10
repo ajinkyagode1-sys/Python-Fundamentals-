@@ -27,7 +27,7 @@ A beginner-friendly portfolio documenting my Python learning journey through top
 | 17 | Assignment 1 — Printing & Variables | `assignments/assignment_01` | ✔Completed |
 | 18 | Assignment 2 — Input & Dictionary | `assignments/assignment_02` | ✔Completed |
 | 19 | Assignment 3 — Conditionals | `assignments/assignment_03` | ✔Completed |
-| 20 | Assignment 4 — Strings | `assignments/assignment_04` | ⬜ Planned |
+| 20 | Assignment 4 — Strings | `assignments/assignment_04` | ✔Completed |
 | 21 | Mini Project — Calculator | `projects/calculator.py` | ⬜ Planned |
 
 ## Repository Structure
